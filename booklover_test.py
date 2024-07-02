@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from hw08.booklover import BookLover
+from booklover.booklover import BookLover
 from pandas.testing import assert_frame_equal
 
 class BookLoverTestSuite(unittest.TestCase):
